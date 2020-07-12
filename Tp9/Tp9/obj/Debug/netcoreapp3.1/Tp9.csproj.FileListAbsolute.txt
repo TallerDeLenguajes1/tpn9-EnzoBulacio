@@ -1,0 +1,4 @@
+C:\Users\Enzo\source\repos\tpn9-EnzoBulacio\Tp9\Tp9\obj\Debug\netcoreapp3.1\Tp9.csprojAssemblyReference.cache
+C:\Users\Enzo\source\repos\tpn9-EnzoBulacio\Tp9\Tp9\obj\Debug\netcoreapp3.1\Tp9.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\tpn9-EnzoBulacio\Tp9\Tp9\obj\Debug\netcoreapp3.1\Tp9.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\tpn9-EnzoBulacio\Tp9\Tp9\obj\Debug\netcoreapp3.1\Tp9.csproj.CoreCompileInputs.cache

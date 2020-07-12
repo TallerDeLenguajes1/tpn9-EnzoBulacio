@@ -19,9 +19,9 @@ namespace Tp9
             string aTra = Console.ReadLine();
             //texto a morse
             string TextToMorse = ConversorDeMorse.TextoAMorse(aTra, ToUpper());
-            Console.WriteLine("\nLa traduccion se guardo"+ );
+            Console.WriteLine("\nLa traduccion se guardo"+ Directorio);
+            Console.WriteLine("si desea continuar preciones una tecla");
+            Console.ReadKey(true);
         }
-
-
     }
 }
